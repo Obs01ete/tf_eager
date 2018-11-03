@@ -1,8 +1,8 @@
 ### Playground to test Tensorflow Eager
 
-Install:
+Install (MacOS):
 ```
-conda env create -f environment.yml -n tf_eager
+conda env create -f environment_macos.yml -n tf_eager
 source activate tf_eager
 ```
 Run eager:
